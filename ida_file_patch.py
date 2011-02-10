@@ -27,7 +27,7 @@ Copyright (c) 2011 Ero Carrera <ero.carrera@gmail.com>
 All rights reserved.
 """
 
-__revision__ = "$LastChangedRevision: 00 $"
+__revision__ = "$LastChangedRevision$"
 __author__ = 'Ero Carrera'
 __version__ = '0.%d' % int( __revision__[21:-2] )
 __contact__ = 'ero.carrera@gmail.com'
