@@ -76,6 +76,6 @@ def main():
         if matches:
             print 'Signatures matched at [%08x]: %s' % (ep, '; '.join( x[0] for x in matches[1] ))
     
-print '---- Running script ----'
+print '---- Running IDA PEiD script version %s ----' % __version__
 main()
 print '---- Script finished ----'

@@ -100,6 +100,6 @@ def main():
         print 'No changes to patch'
 
         
-print '---- Running script ----'
+print '---- Running IDA file patching script version %s ----' % __version__
 main()
 print '---- Script finished ----'
